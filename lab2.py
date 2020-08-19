@@ -33,7 +33,7 @@ with open("lab2.txt") as fp:
 
             if any(w in word for w in key ):
                 keywordarr.append(word)
-            #if keyword.iskeyword(word):
+            if keyword.iskeyword(word):
                 #keywordarr.append(word)
             elif var:
                 variablearr.append(word)
