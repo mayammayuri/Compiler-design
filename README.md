@@ -10,5 +10,6 @@ E~E*E
 E~x
 
 7. op_function.py->just the graph is build yet.
+8. op_table_parsing.py-> this is parsing with operator precedence table.
 
 
